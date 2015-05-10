@@ -1,5 +1,5 @@
 # sinaWeibo
 
-public class helloworld {<\br>
-  System.out.print("Hello world.");
-}
+1
+2
+3
